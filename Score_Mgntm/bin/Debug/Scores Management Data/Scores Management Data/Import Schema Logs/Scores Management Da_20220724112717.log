@@ -1,0 +1,85 @@
+7/24/2022 2:27:17 PM	This log contains information about the import schema operation into project 'Scores Management Data' on computer 'KHALIDY-SAFAR' by user 'toshiba'.
+7/24/2022 2:27:20 PM	Import of database schema has started.
+7/24/2022 2:28:01 PM	Gathering database credentials
+7/24/2022 2:28:01 PM	Gathering database options
+7/24/2022 2:28:01 PM	Gathering users
+7/24/2022 2:28:01 PM	Gathering roles
+7/24/2022 2:28:01 PM	Gathering application roles
+7/24/2022 2:28:01 PM	Gathering role memberships
+7/24/2022 2:28:01 PM	Gathering filegroups
+7/24/2022 2:28:01 PM	Gathering full-text catalogs
+7/24/2022 2:28:01 PM	Gathering assemblies
+7/24/2022 2:28:01 PM	Gathering certificates
+7/24/2022 2:28:01 PM	Gathering asymmetric keys
+7/24/2022 2:28:01 PM	Gathering symmetric keys
+7/24/2022 2:28:01 PM	Gathering encrypted symmetric keys
+7/24/2022 2:28:01 PM	Gathering schemas
+7/24/2022 2:28:01 PM	Gathering XML schema collections
+7/24/2022 2:28:01 PM	Gathering user-defined data types
+7/24/2022 2:28:01 PM	Gathering user-defined types
+7/24/2022 2:28:01 PM	Gathering table types
+7/24/2022 2:28:01 PM	Gathering unique keys for table types
+7/24/2022 2:28:01 PM	Gathering primary keys for table types
+7/24/2022 2:28:01 PM	Gathering indexes for table types
+7/24/2022 2:28:01 PM	Gathering check constraints for table types
+7/24/2022 2:28:01 PM	Gathering default constraints for table types
+7/24/2022 2:28:01 PM	Gathering partition functions
+7/24/2022 2:28:01 PM	Gathering partition schemes
+7/24/2022 2:28:01 PM	Gathering functions
+7/24/2022 2:28:01 PM	Gathering encrypted functions
+7/24/2022 2:28:01 PM	Gathering aggregates
+7/24/2022 2:28:01 PM	Gathering procedures
+7/24/2022 2:28:01 PM	Gathering encrypted procedures
+7/24/2022 2:28:01 PM	Gathering tables
+7/24/2022 2:28:01 PM	Gathering primary keys
+7/24/2022 2:28:01 PM	Gathering unique constraints
+7/24/2022 2:28:01 PM	Gathering foreign keys
+7/24/2022 2:28:01 PM	Gathering default constraints
+7/24/2022 2:28:01 PM	Gathering check constraints
+7/24/2022 2:28:01 PM	Gathering views
+7/24/2022 2:28:01 PM	Gathering encrypted views
+7/24/2022 2:28:01 PM	Gathering indexes
+7/24/2022 2:28:01 PM	Gathering statistics
+7/24/2022 2:28:01 PM	Gathering full-text index stoplists
+7/24/2022 2:28:01 PM	Gathering search property lists
+7/24/2022 2:28:01 PM	Gathering search properties
+7/24/2022 2:28:01 PM	Gathering full-text indexes
+7/24/2022 2:28:01 PM	Gathering column store indexes
+7/24/2022 2:28:01 PM	Gathering spatial indexes
+7/24/2022 2:28:02 PM	Gathering XML indexes
+7/24/2022 2:28:02 PM	Gathering Selective XML indexes
+7/24/2022 2:28:02 PM	Gathering encrypted triggers
+7/24/2022 2:28:02 PM	Gathering triggers
+7/24/2022 2:28:02 PM	Gathering encrypted and clr ddl triggers
+7/24/2022 2:28:02 PM	Gathering ddl triggers
+7/24/2022 2:28:02 PM	Gathering synonyms
+7/24/2022 2:28:02 PM	Gathering defaults
+7/24/2022 2:28:02 PM	Gathering data constraint uddt bindings
+7/24/2022 2:28:02 PM	Gathering rules
+7/24/2022 2:28:02 PM	Gathering data constraint uddt bindings
+7/24/2022 2:28:02 PM	Gathering message types
+7/24/2022 2:28:02 PM	Gathering queues
+7/24/2022 2:28:02 PM	Gathering contracts
+7/24/2022 2:28:02 PM	Gathering services
+7/24/2022 2:28:02 PM	Gathering event notifications
+7/24/2022 2:28:02 PM	Gathering remote service bindings
+7/24/2022 2:28:02 PM	Gathering broker priorities
+7/24/2022 2:28:02 PM	Gathering signatures
+7/24/2022 2:28:02 PM	Gathering data compression options
+7/24/2022 2:28:02 PM	Gathering sequence types
+7/24/2022 2:28:02 PM	Gathering security policies
+7/24/2022 2:28:02 PM	Gather column encryption keys
+7/24/2022 2:28:02 PM	Gathering column master keys
+7/24/2022 2:28:02 PM	Gathering external data sources
+7/24/2022 2:28:02 PM	Gathering external file formats
+7/24/2022 2:28:02 PM	Gathering external tables
+7/24/2022 2:28:02 PM	Gathering database permissions
+7/24/2022 2:28:02 PM	Gathering extended properties
+7/24/2022 2:28:04 PM	Gathering credentials
+7/24/2022 2:28:04 PM	Gathering logins
+7/24/2022 2:28:04 PM	Gathering server audits
+7/24/2022 2:28:12 PM	Scanning project for duplicate elements
+7/24/2022 2:28:13 PM	Finished duplicate element processing
+7/24/2022 2:28:13 PM	Finished importing database.
+7/24/2022 2:28:13 PM	A summary of the import was saved to the following location: C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\Scores Management Data\Scores Management Data\Import Schema Logs\Scores Management Da_20220724112717.log
+7/24/2022 2:28:13 PM	Click Finish to continue...

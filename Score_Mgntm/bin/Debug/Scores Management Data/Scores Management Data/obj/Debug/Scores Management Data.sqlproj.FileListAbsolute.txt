@@ -1,0 +1,9 @@
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\Scores Management Data\Scores Management Data\bin\Debug\Scores Management Data.dacpac
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\Scores Management Data\Scores Management Data\bin\Debug\Scores_Management_Data.dll
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\Scores Management Data\Scores Management Data\bin\Debug\Scores_Management_Data.pdb
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\Scores Management Data\Scores Management Data\obj\Debug\Model.xml
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\Scores Management Data\Scores Management Data\obj\Debug\refactor.xml
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\Scores Management Data\Scores Management Data\obj\Debug\postdeploy.sql
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\Scores Management Data\Scores Management Data\obj\Debug\predeploy.sql
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\Scores Management Data\Scores Management Data\obj\Debug\Scores_Management_Data.dll
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\Scores Management Data\Scores Management Data\obj\Debug\Scores_Management_Data.pdb
