@@ -1,5 +1,5 @@
-# -Scores-Mngmnt.-
-Scores Mngmt. By KHALIDY IBRAIMO SAFAR
+# -Scores-Management.-
+Scores Management By KHALIDY IBRAIMO SAFAR
 
 This project was created by Khalidy Safar, using the C# programming language, and SQL Server for database management.
 
