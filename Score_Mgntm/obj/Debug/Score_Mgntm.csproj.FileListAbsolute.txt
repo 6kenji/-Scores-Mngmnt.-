@@ -1,0 +1,27 @@
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\Score Mgntm.exe.config
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\Score Mgntm.exe
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\Score Mgntm.pdb
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\System.Buffers.dll
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\System.Buffers.xml
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\obj\Debug\Score_Mgntm.FormsUsados.AcercaDoPrograma.resources
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\obj\Debug\Score_Mgntm.FormsUsados.AdicionarNotaForm.resources
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\obj\Debug\Score_Mgntm.FormsUsados.DefinicoesForm.resources
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\obj\Debug\Score_Mgntm.FormsUsados.MeuProgressBar.resources
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\obj\Debug\Score_Mgntm.FormsUsados.VerScoresForm.resources
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\obj\Debug\Score_Mgntm.FormsUsados.VerStatsForm.resources
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\obj\Debug\Score_Mgntm.MyMainMenu.resources
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\obj\Debug\Score_Mgntm.Properties.Resources.resources
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\obj\Debug\Score_Mgntm.csproj.GenerateResource.cache
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\obj\Debug\Score_Mgntm.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\obj\Debug\Score_Mgntm.csproj.CopyComplete
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\obj\Debug\Score Mgntm.exe
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\obj\Debug\Score Mgntm.pdb
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\obj\Debug\Score_Mgntm.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\System.Collections.Immutable.dll
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\System.Memory.dll
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\toshiba\source\repos\Score_Mgntm\Score_Mgntm\obj\Debug\Score Mgntm.exe.config
